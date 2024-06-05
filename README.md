@@ -4,6 +4,9 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I survived a terrorist attack
 
+[certificate-of-completion-for-safeguarding-training.pdf](https://github.com/user-attachments/files/15586348/certificate-of-completion-for-safeguarding-training.pdf)
+[certificate-of-completion-for-gdpr-training.pdf](https://github.com/user-attachments/files/15586347/certificate-of-completion-for-gdpr-training.pdf)
+
 <!---
 Ehonam/Ehonam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
