@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Ehonam
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on how to progress as webmaster, web integrator and web developer
-- 📫 How to reach me ehonam@live.fr
-- LinkedIn profile : www.linkedin.com/in/koffi-hamenou-20224a106
+ ![Home](https://github.com/Ehonam/Ehonam/assets/164899950/95764655-1309-4da3-b356-849a5d47fecb)
+ 
+- LinkedIn profile: www.linkedin.com/in/koffi-hamenou-20224a106
 - 😄 Pronouns: He
 - ⚡ Fun fact: I survived a terrorist attack
 
