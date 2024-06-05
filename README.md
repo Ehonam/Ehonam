@@ -1,5 +1,5 @@
- ![Home](https://github.com/Ehonam/Ehonam/assets/164899950/95764655-1309-4da3-b356-849a5d47fecb)
- 
+ ![Free Universe Stars Video Gif Animated Zoom Virtual Background](https://github.com/Ehonam/Ehonam/assets/164899950/4598c042-f112-46d4-9db2-0816de3f942d)
+
 - LinkedIn profile: www.linkedin.com/in/koffi-hamenou-20224a106
 - 😄 Pronouns: He
 - ⚡ Fun fact: I survived a terrorist attack
