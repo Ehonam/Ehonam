@@ -36,7 +36,7 @@ Je suis à la croisée entre le **droit des données personnelles** et le **dév
  
 | Poste | Structure | Période |
 |---|---|---|
-| Réceptionniste de nuit | Adagio Aparthotel Petite France, Strasbourg | 2026 – présent |
+| Réceptionniste de nuit | Adagio Aparthotel Petite France, Strasbourg | 2025 – présent |
 | Développeur Web (stage cabinet DPO) | DPP – Data Privacy Professionals, Strasbourg | 2025 – 2026 |
 | Chef de Projet Événementiel | CfaN, Côte d'Ivoire | 2024 |
 | Web Marketeur | Wine Scholar Guild | 2016 |
